@@ -4,7 +4,7 @@ Hi there, this is Zeju Li.
 
 - 💼 Post-Doctoral Researcher in Unversity of Oxford. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
 
-- 📈 I provide solutions for medical image analysis and computer vision using neural networks.
+- 📈 I provide solutions for medical image analysis and computer vision tasks using neural networks.
 
 - 👯 Open to collaborate on building AI tools to solve real-world problems.
 
