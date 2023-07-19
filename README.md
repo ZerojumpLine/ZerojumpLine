@@ -1,8 +1,14 @@
-### Hi there 👋
+Hi there, this is Zeju Li.
 
-I'm Zeju Li, a Post-Doctoral Researcher in Unversity of Oxford. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
+**About me**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark)
+- 💼 Post-Doctoral Researcher in Unversity of Oxford. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
+
+- 📈 I provide solutions for medical image analysis and computer vision using neural networks.
+
+- 👯 Open to collaborate on building AI tools to solve real-world problems.
+
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark)</p>
 
 <!--
 **ZerojumpLine/ZerojumpLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
