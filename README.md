@@ -8,7 +8,7 @@ Hi there, this is Zeju Li.
 
 - 👯 Open to collaborate on building AI tools to solve real-world problems.
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark)</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark)
 
 <!--
 **ZerojumpLine/ZerojumpLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
