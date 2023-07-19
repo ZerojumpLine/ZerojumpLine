@@ -2,6 +2,8 @@
 
 I'm Zeju Li, a Post-Doctoral Researcher in Unversity of Oxford. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerojumpLine)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ZerojumpLine/ZerojumpLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
