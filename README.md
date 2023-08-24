@@ -10,11 +10,10 @@ Hi there, this is Zeju Li.
 
 <div align="center">
   <a href="https://github.com/MiguelMonteirooo">
-  <img height="180em" src="https://github-readme-stats-kaixt3cz7-zerojumpline.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-mu-seven-64.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-mu-seven-64.vercel.app/api/top-langs/?username=ZerojumpLine&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-[![Top Langs](https://github-readme-stats-mu-seven-64.vercel.app/api/top-langs/?username=ZerojumpLine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ZerojumpLine/ZerojumpLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
