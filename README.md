@@ -10,8 +10,8 @@ Hi there, this is Zeju Li.
 
 <div align="center">
   <a href="https://github.com/MiguelMonteirooo">
-  <img height="180em" src="https://github-readme-stats-mu-seven-64.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-mu-seven-64.vercel.app/api/top-langs/?username=ZerojumpLine&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="github-readme-stats-kaixt3cz7-zerojumpline.vercel.app/api?username=ZerojumpLine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="github-readme-stats-kaixt3cz7-zerojumpline.vercel.app/api/top-langs/?username=ZerojumpLine&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
