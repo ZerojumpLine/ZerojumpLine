@@ -14,6 +14,7 @@ Hi there, this is Zeju Li.
   <img height="180em" src="https://github-readme-stats-mu-seven-64.vercel.app/api/top-langs/?username=ZerojumpLine&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ZerojumpLine/ZerojumpLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
