@@ -2,7 +2,7 @@ Hi there, this is Zeju Li.
 
 **About me**
 
-- 💼 Post-Doctoral Researcher at Unversity of Oxford. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
+- 💼 Researcher at Fudan Unversity. Here are my [personal website](https://zerojumpline.github.io/) and [Google Scholar](https://scholar.google.co.uk/citations?user=zeuflXEAAAAJ&hl=en&oi=ao).
 
 - 📈 I provide solutions for medical image analysis and computer vision tasks using neural networks.
 
